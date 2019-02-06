@@ -9,3 +9,7 @@ Some issues that we ran into when we forked a repository and added an upstream r
 - Thomas: I cloned the wrong repository at first
 - Jonathan doesn't know what an upstream remote is, and neither does Thomas.
 - Jim learned all of this github stuff already but he designated himself as a 2 on the github literacy scale.
+
+Some issues that we ran into when we created issues in Github's issue tracker
+- Jonathan didn't write a description 
+- Thomas did not write the file name in the issue like it says in the instructions.
